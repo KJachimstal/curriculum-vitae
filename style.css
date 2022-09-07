@@ -36,3 +36,10 @@ ul {
     box-shadow: 6px 6px 40px rgb(0 0 0 / 10%);
     background: #fff;
 }
+
+.skills-list-element {
+    color: black;
+    position: relative;
+    left: -10px;
+    line-height: 24px;
+}

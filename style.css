@@ -51,6 +51,11 @@ ul {
     color: #666666;
 }
 
+img {
+    width: 150px;
+    transform: scaleX(-1);
+}
+
 .wrapper {
     display: flex;
     flex-direction: row-reverse;

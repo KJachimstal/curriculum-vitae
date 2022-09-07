@@ -19,6 +19,7 @@ h2 {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     color: #1155cc;
+    margin-top: 0;
 }
 
 h4,
@@ -62,4 +63,10 @@ ul {
 
 .highlight {
     font-weight: 700;
+}
+
+.aside-bar {
+    font-weight: 700;
+    font-size: 25px;
+    margin: 0 0 -10px 0;
 }

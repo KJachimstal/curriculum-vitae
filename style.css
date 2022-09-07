@@ -1,4 +1,22 @@
 body {
     font-family: "Lato", sans-serif;
     font-family: "Montserrat", sans-serif;
+    background: #e5e5e5;
+}
+
+footer {
+    justify-content: center;
+    margin: 0 auto;
+    width: 1200px;
+    background: #fff;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin: 0 auto;
+    width: 1200px;
+    box-shadow: 6px 6px 40px rgb(0 0 0 / 10%);
+    background: #fff;
 }

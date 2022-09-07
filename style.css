@@ -37,9 +37,14 @@ ul {
     background: #fff;
 }
 
-.skills-list-element {
+.skills-list-element,
+.highlight {
     color: black;
     position: relative;
     left: -10px;
     line-height: 24px;
+}
+
+.highlight {
+    font-weight: 700;
 }

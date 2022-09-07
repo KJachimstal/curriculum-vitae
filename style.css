@@ -15,6 +15,10 @@ aside {
     padding: 20px;
 }
 
+aside {
+    width: 800px;
+}
+
 h2 {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
